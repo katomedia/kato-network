@@ -1,7 +1,8 @@
 <?php
 /**
  * Plugin Name: Kato Media Network Plugin
- * Plugin URI: http://kato.me
+ * Plugin URI: https://github.com/katomedia/kato-network
+ * Git URI: https://github.com/katomedia/kato-network
  * Description: Network-wide functions for WordPress
  * Version: 0.0.1
  * Author: Leo Ji
